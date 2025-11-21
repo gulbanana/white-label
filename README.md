@@ -1,5 +1,7 @@
 # white-label
 
+[![CI](https://github.com/gulbanana/white-label/actions/workflows/push.yml/badge.svg)](https://github.com/gulbanana/white-label/actions/workflows/push.yml)
+
 Compile-time rebranding for Rust projects.
 
 ## Usage
